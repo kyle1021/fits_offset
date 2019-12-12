@@ -1,4 +1,5 @@
 Please contact Kai-yang Lin (kylin@asiaa.sinica.edu.tw) if you have any questions.
+
 2019/Dec/12
 
 
@@ -15,8 +16,11 @@ Notes:
 4. the current default is to not de-rotate the image, so this measures offsets in the physical coordinates in arcmin
 
 Outputs:
+
 Xcorr_offsets.txt --> the pairwise offsets and correlation strengths for diagnostics
+
 Xcorr_solution.txt --> the relative offset of each image (relative to the ref image shown in the first line)
+
 Xcorr_residual_ra.txt --> comparing the pair-wise offset in X(ra) direction to the solution/model (another one for Y(dec))
 
 
